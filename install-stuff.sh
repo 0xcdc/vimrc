@@ -1,1 +1,1 @@
-sudo apt install git p7zip vim
+sudo apt install git p7zip vim curl
