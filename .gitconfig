@@ -3,3 +3,5 @@
 	name = Charlie Carson
 [core]
 	editor = vim
+[push]
+	default = simple
