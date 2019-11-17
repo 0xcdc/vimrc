@@ -1,1 +1,1 @@
-sudo apt install git p7zip vim curl sqlite3
+sudo apt install git p7zip vim curl sqlite3 xclip
