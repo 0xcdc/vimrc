@@ -39,7 +39,7 @@ set incsearch
 set hlsearch
 set ignorecase
 set smartcase
-
+set clipboard=unnamedplus
 set ruler
 
 " set colors
